@@ -10,4 +10,5 @@ Foi designados a nos a criação de um semáforo atraves do site wokwi e utiliza
 
 ![alt text](esp.png)
 
-
+##Link Projeto
+https://wokwi.com/projects/438730130336064513
