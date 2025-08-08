@@ -1,4 +1,4 @@
-﻿## Semaforo
+﻿## Semáforo
 
 ## Sobre o Projeto
 Foi designados a nos a criação de um semáforo atraves do site wokwi e utilizando esp32.
@@ -9,4 +9,5 @@ Foi designados a nos a criação de um semáforo atraves do site wokwi e utiliza
 ![alt text](<projeto total.png>)
 
 ![alt text](esp.png)
+
 
